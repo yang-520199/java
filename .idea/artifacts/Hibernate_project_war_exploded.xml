@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Hibernate project:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hibernate_project_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Hibernate project/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Hibernate project" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="Hibernate 5.4.11-5.4.11" module-name="Hibernate project" />
+          <element id="file-copy" path="$PROJECT_DIR$/../下载/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/xwork-core-2.3.37.jar" />
+          <element id="library" level="project" name="commons-io-2.6" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
