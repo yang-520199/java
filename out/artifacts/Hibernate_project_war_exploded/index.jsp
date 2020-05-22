@@ -18,6 +18,6 @@
     <s:textfield name="userName" label="用户名"/>
     <s:submit name="submit" value="提交"/>
   </s:form>
-
+  <img src="../img/1.jpg">
   </body>
 </html>
